@@ -1,4 +1,4 @@
-# Reproducing: Agricultural Workforce as a Potential Bottleneck of Future Cropland Availability
+# Supplementary_Datasets: Agricultural Workforce as a Potential Bottleneck of Future Cropland Availability
 
 This repository provides input and comparison datasets required to reproduce the findings of the study:
 **"Agricultural Workforce as a Potential Bottleneck of Future Cropland Availability"** (*Nature Sustainability*, Accepted in principle).
